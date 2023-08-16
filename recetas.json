@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "huevos fritos",
+        "fecha": "16/08/2023",
+        "preparacion": "echar aceite a la sarten\nromper los huevos y ponerlos en la sarten cuando el aceite este caliente\ncuando esten fritos sacarlos",
+        "tiempo_prep": "1",
+        "tiempo_cocc": "4",
+        "ingredientes": "huevo, aceite",
+        "etiquetas": [
+            "Huevos fritos"
+        ],
+        "imagen": "imagenes\\huevos_fritos.jpg"
+    }
+]
